@@ -1,0 +1,12 @@
+# Data Folder
+
+This folder stores the dataset used for the logistics analysis project.
+
+## Dataset
+DataCo SMART Supply Chain for Big Data Analysis
+
+Source: https://data.mendeley.com/datasets/8gx2fvg2k6/5
+
+Download the dataset from the source and place the CSV file in this folder.
+
+The raw dataset is not included in this repository. Please check the dataset license and terms before reuse.
